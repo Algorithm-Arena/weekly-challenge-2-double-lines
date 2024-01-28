@@ -6,6 +6,17 @@ This is the second edition of a weekly programming challenge that I'm going to h
 
 ![image](https://github.com/vjeux/weekly-challenge-2-double-lines/assets/197597/0e296057-01b3-4d04-a200-cae63d2b3210)
 
+Winners:
+
+This week's is a tie between the two participants:
+
+* Congratulations to @ericlee314 who wins $75 by implementing a web based version of the algorithm. It has a [nice UI](https://jsfiddle.net/ericdlee/etkcrgLf/228/) that lets you write your own path and see how it would behave. You can see the [full submission](https://github.com/vjeux/weekly-challenge-2-double-lines/issues/1).
+
+<a href="https://jsfiddle.net/ericdlee/etkcrgLf/228/"><img width="550" alt="image" src="https://github.com/vjeux/weekly-challenge-2-double-lines/assets/197597/7e6a600f-992e-4037-b773-fbd00f31b3ca"></a>
+
+* Congratulations to @mirellasilva who wins $75 by implementing a python version of the algorithm. The distinctive feature is the [automatically generated tests](https://github.com/mirellasilva/double-lines/blob/main/run_tests.py) which is a nice touch! You can see the [full submission](https://github.com/vjeux/weekly-challenge-2-double-lines/issues/2).
+
+<a href="https://github.com/vjeux/weekly-challenge-2-double-lines/issues/2"><img width="550" alt="image" src="https://github.com/vjeux/weekly-challenge-2-double-lines/assets/197597/08bdefb3-0c33-44e7-b557-8d46221e2e4f"></a>
 
 Prizes:
 * Winner: $100
