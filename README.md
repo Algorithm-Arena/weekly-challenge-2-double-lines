@@ -6,7 +6,7 @@ This is the second edition of a weekly programming challenge that I'm going to h
 
 ![image](https://github.com/vjeux/weekly-challenge-2-double-lines/assets/197597/0e296057-01b3-4d04-a200-cae63d2b3210)
 
-Winners:
+### Winners:
 
 This week's is a tie between the two participants:
 
